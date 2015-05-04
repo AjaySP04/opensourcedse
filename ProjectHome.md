@@ -1,0 +1,1 @@
+This is a Desktop Search Engine using open source tools like Apache Lucene for Document indexing and Apache Tika for Document analysis.
